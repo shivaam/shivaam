@@ -28,6 +28,8 @@
 - 🏗️ **[whisper-pulsar-consumer-cdk](https://github.com/shivaam/whisper-pulsar-consumer-cdk)** — Infra-as-code for the Whisper consumer service using AWS CDK
 - 🎬 **[one-take](https://github.com/shivaam/one-take)** — Cross-platform video recording and editing app
 - 📱 **[onetake-ios](https://github.com/shivaam/onetake-ios)** — iOS client for One Take built with Swift
+- 🏆 **[daily-wins-progress-tracker](https://github.com/shivaam/daily-wins-progress-tracker)** — Daily wins and progress tracking app
+- 🩺 **[therapy-site](https://github.com/shivaam/therapy-site)** — Therapist portfolio and booking website
 
 ---
 
