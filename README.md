@@ -6,7 +6,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/-Flink-E6526F?style=flat-square&logo=apache-flink&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS CDK](https://img.shields.io/badge/-CDK-FF9900?style=flat-square&logo=amazon-web-services&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -35,7 +34,7 @@
 
 ## Open Source
 
-Active contributor to **[Apache Airflow](https://github.com/apache/airflow)** (10 merged PRs, 8 in review) and **[Apache Flink](https://github.com/apache/flink-connector-aws)** — focused on AWS providers, scheduler reliability, UI, and developer tooling.
+Active contributor to **[Apache Airflow](https://github.com/apache/airflow)** (10 merged PRs, 8 in review) — focused on AWS providers, scheduler reliability, UI, and developer tooling.
 
 ### Notable Merged PRs
 
@@ -45,14 +44,12 @@ Active contributor to **[Apache Airflow](https://github.com/apache/airflow)** (1
 - 🐛 **[Fix AwsBaseWaiterTrigger losing error details on deferred task failure](https://github.com/apache/airflow/pull/64085)** — error messages were being swallowed silently
 - 🐛 **[Fix backfill marked complete before DagRuns are created](https://github.com/apache/airflow/pull/62561)** — backfills were lying about being done
 - 🌙 **[Add dark theme support for FAB Security pages](https://github.com/apache/airflow/pull/60908)** — dark mode for the security UI
-- 🐳 **[Bump testcontainers to 1.21.4 for Docker API compatibility](https://github.com/apache/flink-connector-aws/pull/242)** — Apache Flink
 
 ---
 
 ## What I'm Working On
 
 - **Apache Airflow** — earning committer status through sustained contributions to AWS providers, scheduler, and UI
-- **Apache Flink** — early-stage contributor to Flink AWS connectors
 - **Developer tools** — building CLI tools that generate code from specs
 - **Infrastructure** — CI/CD pipelines, EKS deployments, and CDK patterns
 
