@@ -28,7 +28,6 @@
 - 🏗️ **[whisper-pulsar-consumer-cdk](https://github.com/shivaam/whisper-pulsar-consumer-cdk)** — Infra-as-code for the Whisper consumer service using AWS CDK
 - 🎬 **[one-take](https://github.com/shivaam/one-take)** — Cross-platform video recording and editing app
 - 📱 **[onetake-ios](https://github.com/shivaam/onetake-ios)** — iOS client for One Take built with Swift
-- 🍺 **[homebrew-tap](https://github.com/shivaam/homebrew-tap)** — Homebrew formulae for my developer tools
 
 ---
 
