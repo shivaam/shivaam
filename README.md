@@ -16,16 +16,26 @@
 
 ---
 
-## Projects
+## Current Focus — Workflow Orchestration & AWS Infrastructure
 
 - 🛠️ **[openapi-cli-gen](https://github.com/shivaam/openapi-cli-gen)** — Generate typed Python CLIs from OpenAPI specs with Pydantic model flattening into CLI flags
 - ⚙️ **[miniflow](https://github.com/shivaam/miniflow)** — Build a workflow orchestrator from scratch — distributed systems, scheduling, and state machines
 - 🚀 **[airflow-ec2](https://github.com/shivaam/airflow-ec2)** — Deploy Apache Airflow 3.x on EC2 in minutes with AWS CDK
 - 🚇 **[eks-pipeline-cdk](https://github.com/shivaam/eks-pipeline-cdk)** — CI/CD pipeline for deploying applications to Amazon EKS with AWS CDK
-- 💬 **[babblebox](https://github.com/shivaam/babblebox)** — Async real-time chat app with Whisper transcription, Django, and Apache Pulsar
-- 📦 **[babblebox-cdk-pipeline](https://github.com/shivaam/babblebox-cdk-pipeline)** — AWS CDK CodePipeline to build, test, and ship the babblebox platform
-- 🎙️ **[whisper-pulsar-consumer](https://github.com/shivaam/whisper-pulsar-consumer)** — Consume audio messages via Apache Pulsar and transcribe with Whisper
-- 🏗️ **[whisper-pulsar-consumer-cdk](https://github.com/shivaam/whisper-pulsar-consumer-cdk)** — Infra-as-code for the Whisper consumer service using AWS CDK
+
+### BabbleBox — Distributed Messaging Platform on EKS
+
+A deep-dive learning project exploring Apache Pulsar, Kubernetes, TLS/PKI, and AWS infrastructure end-to-end. See the [babblebox README](https://github.com/shivaam/babblebox) for architecture diagrams and a writeup of the K8s and cert-manager setup.
+
+- 💬 **[babblebox](https://github.com/shivaam/babblebox)** — Async audio chat with Whisper transcription, Django, and Apache Pulsar
+- 📦 **[babblebox-cdk-pipeline](https://github.com/shivaam/babblebox-cdk-pipeline)** — AWS CDK CodePipeline to build, test, and ship the Django app
+- 🎙️ **[whisper-pulsar-consumer](https://github.com/shivaam/whisper-pulsar-consumer)** — Python Whisper consumer for the Pulsar audio topic
+- 🏗️ **[whisper-pulsar-consumer-cdk](https://github.com/shivaam/whisper-pulsar-consumer-cdk)** — Infra-as-code for the Whisper consumer using AWS CDK
+
+## More Projects
+
+Things I've built over the years — full-stack apps, iOS, and side projects that don't fit the infra story above.
+
 - 🎬 **[one-take](https://github.com/shivaam/one-take)** — Cross-platform video recording and editing app
 - 📱 **[onetake-ios](https://github.com/shivaam/onetake-ios)** — iOS client for One Take built with Swift
 - 🏆 **[daily-wins-progress-tracker](https://github.com/shivaam/daily-wins-progress-tracker)** — Daily wins and progress tracking app
