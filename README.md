@@ -12,12 +12,14 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
-> Building developer tools, contributing to the Apache ecosystem, and shipping infrastructure with AWS CDK. I like making things more reliable, debuggable, and delightful to use.
+> Engineer. Airflow contributor. Perpetual learner. I write about what I learn at [shivamrastogi.com](https://shivamrastogi.com).
 
 ---
 
-## Current Focus — Workflow Orchestration & AWS Infrastructure
+## Current Focus
 
+- 🟦 **Airflow TypeScript Task SDK** — Enabling TypeScript task execution in Apache Airflow (in development)
+- 🔍 **[claude-code-search](https://github.com/shivaam/claude-code-search)** — Local semantic search over Claude Code conversation history
 - 🛠️ **[openapi-cli-gen](https://github.com/shivaam/openapi-cli-gen)** — Generate typed Python CLIs from OpenAPI specs with Pydantic model flattening into CLI flags
 - ⚙️ **[miniflow](https://github.com/shivaam/miniflow)** — Build a workflow orchestrator from scratch — distributed systems, scheduling, and state machines
 - 🚀 **[airflow-ec2](https://github.com/shivaam/airflow-ec2)** — Deploy Apache Airflow 3.x on EC2 in minutes with AWS CDK
@@ -34,8 +36,6 @@ A deep-dive learning project exploring Apache Pulsar, Kubernetes, TLS/PKI, and A
 
 ## More Projects
 
-Things I've built over the years — full-stack apps, iOS, and side projects that don't fit the infra story above.
-
 - 🎬 **[one-take](https://github.com/shivaam/one-take)** — Cross-platform video recording and editing app
 - 📱 **[onetake-ios](https://github.com/shivaam/onetake-ios)** — iOS client for One Take built with Swift
 - 🏆 **[daily-wins-progress-tracker](https://github.com/shivaam/daily-wins-progress-tracker)** — Daily wins and progress tracking app
@@ -45,7 +45,7 @@ Things I've built over the years — full-stack apps, iOS, and side projects tha
 
 ## Open Source
 
-Active contributor to **[Apache Airflow](https://github.com/apache/airflow)** (10 merged PRs, 8 in review) — focused on AWS providers, scheduler reliability, UI, and developer tooling.
+Active contributor to **[Apache Airflow](https://github.com/apache/airflow)** (12 merged PRs, 5 in review) — focused on AWS providers, scheduler reliability, UI, and developer tooling.
 
 ### Notable Merged PRs
 
@@ -58,11 +58,19 @@ Active contributor to **[Apache Airflow](https://github.com/apache/airflow)** (1
 
 ---
 
+## Writing
+
+- **[Fixing duplicate deadline callbacks in Airflow's HA scheduler](https://shivamrastogi.com/tech/fixing-duplicate-deadline-callbacks-in-airflows-ha-scheduler/)** — a three-line fix, a subtle Postgres lock mode, and why HA bugs hide in single-session tests
+- **[Over-engineering an async AI voice chat app, on purpose](https://shivamrastogi.com/tech/over-engineering-an-async-ai-voice-chat-app-on-purpose/)** — seven repos, four languages, Apache Pulsar on Kubernetes — and the honest reason the architecture looks like this
+
+---
+
 ## What I'm Working On
 
-- **Apache Airflow** — earning committer status through sustained contributions to AWS providers, scheduler, and UI
-- **Developer tools** — building CLI tools that generate code from specs
-- **Infrastructure** — CI/CD pipelines, EKS deployments, and CDK patterns
+- **Apache Airflow** — contributing to the scheduler and AWS provider packages
+- **Airflow TypeScript Task SDK** — enabling TypeScript task execution in Airflow
+- **GenAI developer tools** — claude-code-search, openapi-cli-gen
+- **Writing** — technical blog at [shivamrastogi.com](https://shivamrastogi.com)
 
 ---
 
@@ -79,5 +87,6 @@ Active contributor to **[Apache Airflow](https://github.com/apache/airflow)** (1
 
 ## Connect
 
+[![Blog](https://img.shields.io/badge/-shivamrastogi.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://shivamrastogi.com)
 [![GitHub](https://img.shields.io/badge/-shivaam-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shivaam)
 [![LinkedIn](https://img.shields.io/badge/-Shivam_Rastogi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaamrastogi)
